@@ -6,15 +6,15 @@ Embark on a journey of data-driven discovery with my HR Analytics Dashboard proj
 
 **Tools and Technologies used:**
 
-Microsoft Excel: Primary tool for data cleaning, preprocessing, and visualization.
+**Microsoft Excel**: Primary tool for data cleaning, preprocessing, and visualization.
 
-Formulas and Functions: Utilized Excel's built-in functions for data manipulation and analysis.​
+**Formulas and Functions**: Utilized Excel's built-in functions for data manipulation and analysis.​
 
-Pivot Tables: Employed for summarizing and aggregating data for insightful reporting.​
+**Pivot Tables**: Employed for summarizing and aggregating data for insightful reporting.​
 
-Charts and Graphs: Utilized Excel's charting capabilities to visualize attrition trends.​
+**Charts and Graphs**: Utilized Excel's charting capabilities to visualize attrition trends.​
 
-Data Validation: Implemented to ensure data accuracy and consistency.
+**Data Validation**: Implemented to ensure data accuracy and consistency.
 
 
 
